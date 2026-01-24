@@ -1,0 +1,13 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_3_Series"
+
+generations:
+  - name: "First Generation"
+    start_year: 2022
+    end_year: 2025
+    description: "Battery electric sedan based on G20 platform, exclusive to Chinese market. Shares powertrain with i4."
+
+  - name: "Second Generation"
+    start_year: 2026
+    end_year: null
+    description: "Next-generation battery electric sedan based on G50/NA0 platform. Part of BMW's Neue Klasse generation."
