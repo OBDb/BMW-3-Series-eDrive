@@ -1,0 +1,14 @@
+command_id: 6F1.612.224205|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_BOOST_P: 97.35156
+  response: 612F10562420530AD
+- expected_values:
+    EDRIVE_BOOST_P: 103.99219
+  response: 612F10562420533FF
+- expected_values:
+    EDRIVE_BOOST_P: 104
+  response: 612F1056242053400
+- expected_values:
+    EDRIVE_BOOST_P: 174.96094
+  response: 612F105624205577B

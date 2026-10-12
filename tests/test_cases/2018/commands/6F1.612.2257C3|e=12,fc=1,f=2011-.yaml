@@ -1,0 +1,16 @@
+command_id: 6F1.612.2257C3|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_OIL_TEMP_ALT: 0
+  response: 612F1056257C30000
+- expected_values:
+    EDRIVE_OIL_TEMP_ALT: 76.7
+  response: 612F1056257C302FF
+- expected_values:
+    EDRIVE_OIL_TEMP_ALT: 102.4
+  response: 612F1056257C30400
+- expected_values:
+    EDRIVE_OIL_TEMP_ALT: 122.5
+  response: |-
+    612F10562586F0408
+    612F1056257C304C9

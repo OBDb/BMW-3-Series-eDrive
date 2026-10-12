@@ -1,0 +1,11 @@
+command_id: 6F1.612.224AB1|e=12,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_VSS2: 0
+  response: 612F105624AB10000
+- expected_values:
+    EDRIVE_VSS2: 27.35
+  response: 612F105624AB10AAF
+- expected_values:
+    EDRIVE_VSS2: 44
+  response: 612F105624AB11130

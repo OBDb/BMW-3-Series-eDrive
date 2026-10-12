@@ -1,0 +1,32 @@
+command_id: 6F1.618.22DA23|e=18,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_ODO_LOWRES: 80408
+  response: |-
+    618F1100762DA230000
+    618F1212743FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_LOWRES: 80504
+  response: |-
+    618F1100762DA230000
+    618F121274FFFFFFFFF
+- expected_values:
+    EDRIVE_ODO_LOWRES: 81920
+  response: |-
+    618F1100762DA230000
+    618F1212800FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_LOWRES: 163840
+  response: |-
+    618F1100762DA230000
+    618F1215000FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_LOWRES: 196528
+  response: |-
+    618F1100762DA230000
+    618F1215FF6FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_LOWRES: 1000000
+  response: |-
+    618F1100762DA23FFFF
+    618F121FFFFFFFFFFFF

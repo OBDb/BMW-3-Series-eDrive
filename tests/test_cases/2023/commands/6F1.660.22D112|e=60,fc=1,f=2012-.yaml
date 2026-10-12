@@ -1,0 +1,31 @@
+command_id: 6F1.660.22D112|e=60,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_AAT: 26.5
+  response: |-
+    660F10562D107009D
+    660F10562D1128585
+- expected_values:
+    EDRIVE_AAT: 16.5
+  response: 660F10562D1127171
+- expected_values:
+    EDRIVE_AAT: 17.5
+  response: 660F10562D1127373
+- expected_values:
+    EDRIVE_AAT: 24.5
+  response: 660F10562D1128181
+- expected_values:
+    EDRIVE_AAT: 24.5
+  response: 660F10562D1128183
+- expected_values:
+    EDRIVE_AAT: 25.5
+  response: 660F10562D1128383
+- expected_values:
+    EDRIVE_AAT: 27.5
+  response: 660F10562D1128792
+- expected_values:
+    EDRIVE_AAT: 27.5
+  response: 660F10562D112879B
+- expected_values:
+    EDRIVE_AAT: 27.5
+  response: 660F10562D112879E

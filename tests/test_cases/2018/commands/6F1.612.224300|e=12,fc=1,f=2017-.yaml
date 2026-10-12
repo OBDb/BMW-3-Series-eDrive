@@ -1,0 +1,19 @@
+command_id: 6F1.612.224300|e=12,fc=1,f=2017-
+test_cases:
+- expected_values:
+    EDRIVE_ET: 19.55
+  response: 612F1056243000B6F
+- expected_values:
+    EDRIVE_ET: 33.95
+  response: 612F1056243000BFF
+- expected_values:
+    EDRIVE_ET: 34.05
+  response: 612F1056243000C00
+- expected_values:
+    EDRIVE_ET: 110.85
+  response: 612F1056243000F00
+- expected_values:
+    EDRIVE_ET: 109.55
+  response: |-
+    612F105624AB115E0
+    612F1056243000EF3

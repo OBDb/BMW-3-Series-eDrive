@@ -1,0 +1,11 @@
+command_id: 6F1.678.22D96B|e=78,fc=1
+test_cases:
+- expected_values:
+    EDRIVE_IHX_AAT: 11
+  response: 678F10562D96B0066
+- expected_values:
+    EDRIVE_IHX_AAT: 11.5
+  response: 678F10562D96B0067
+- expected_values:
+    EDRIVE_IHX_AAT: 36.5
+  response: 678F10562D96B0099

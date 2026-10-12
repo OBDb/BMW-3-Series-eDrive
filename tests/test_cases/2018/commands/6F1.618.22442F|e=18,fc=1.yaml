@@ -1,0 +1,11 @@
+command_id: 6F1.618.22442F|e=18,fc=1
+test_cases:
+- expected_values:
+    EDRIVE_ENG_TQ_6F1: 0
+  response: 618F10562442F0000
+- expected_values:
+    EDRIVE_ENG_TQ_6F1: 65513
+  response: 618F10562442FFFE9
+- expected_values:
+    EDRIVE_ENG_TQ_6F1: 65535
+  response: 618F10562442FFFFF

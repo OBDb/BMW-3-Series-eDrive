@@ -1,0 +1,20 @@
+command_id: 6F1.660.22D10D|e=60,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_ODO: 42181
+    EDRIVE_ODO_ALT: 42181
+  response: |-
+    660F1100B62D10D0000
+    660F121A4C50000A4C5
+- expected_values:
+    EDRIVE_ODO: 49144
+    EDRIVE_ODO_ALT: 49144
+  response: |-
+    660F1100B62D10D0000
+    660F121BFF80000BFF8
+- expected_values:
+    EDRIVE_ODO: 49638
+    EDRIVE_ODO_ALT: 49638
+  response: |-
+    660F1100B62D10D0000
+    660F121C1E60000C1E6

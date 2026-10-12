@@ -1,0 +1,136 @@
+command_id: 6F1.660.22D112|e=60,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_AAT: 13.5
+  response: |-
+    660F10562D1070000
+    660F10562D1126B6D
+- expected_values:
+    EDRIVE_AAT: 14
+  response: |-
+    660F10562D1070040
+    660F10562D1126C6C
+- expected_values:
+    EDRIVE_AAT: 15
+  response: |-
+    660F10562D107006F
+    660F1100B62D10D0002
+    660F121E0770002E077
+    660F10562D1126E71
+- expected_values:
+    EDRIVE_AAT: 11
+  response: |-
+    660F10562D107009D
+    660F10562D112666E
+- expected_values:
+    EDRIVE_AAT: 20
+  response: |-
+    660F10562D107015D
+    660F10562D1127879
+- expected_values:
+    EDRIVE_AAT: 13.5
+  response: |-
+    660F10562D1070167
+    660F10562D1126B74
+- expected_values:
+    EDRIVE_AAT: 2
+  response: 660F10562D1125454
+- expected_values:
+    EDRIVE_AAT: 15.5
+  response: |-
+    660F10562D1126F71
+    660F10562D107020C
+- expected_values:
+    EDRIVE_AAT: 16.5
+  response: 660F10562D1127172
+- expected_values:
+    EDRIVE_AAT: 17
+  response: |-
+    660F10562D1127272
+    660F10562D1127272
+- expected_values:
+    EDRIVE_AAT: 20.5
+  response: |-
+    660F10562D112797B
+    660F1100B62D10D0002
+    660F121EA350002EA35
+- expected_values:
+    EDRIVE_AAT: 30
+  response: 660F10562D1128CB4
+- expected_values:
+    EDRIVE_AAT: 42.5
+  response: 660F10562D112A5A5
+- expected_values:
+    EDRIVE_AAT: 16.5
+  response: |-
+    660F1100B62D10D0002
+    660F121C6B90002C6B9
+    660F10562D1127171
+- expected_values:
+    EDRIVE_AAT: 16
+  response: |-
+    660F1100B62D10D0002
+    660F121D3010002D301
+    660F10562D1127071
+- expected_values:
+    EDRIVE_AAT: 15.5
+  response: |-
+    660F1100B62D10D0002
+    660F121E3BF0002E3BF
+    660F10562D1126F71
+- expected_values:
+    EDRIVE_AAT: 24
+  response: |-
+    660F1100B62D10D0003
+    660F1210FE200030FE2
+    660F10562D1128084
+- expected_values:
+    EDRIVE_AAT: 18
+  response: |-
+    660F1100B62D10D0003
+    660F121143B0003143B
+    660F10562D1127475
+- expected_values:
+    EDRIVE_AAT: 23
+  response: |-
+    660F1100F62D1110000
+    660F12100960820FFFF
+    660F1224D4C00A2FFFF
+    660F10562D1127E7E
+- expected_values:
+    EDRIVE_AAT: 10.5
+  response: |-
+    660F1100F62D1110000
+    660F12100A003ACFFFF
+    660F1224C260089FFFF
+    660F10562D1126569
+- expected_values:
+    EDRIVE_AAT: 20.5
+  response: |-
+    660F1100F62D1110000
+    660F12100A00CE4FFFF
+    660F1224ACB00ACFFFF
+    660F10562D1127982
+- expected_values:
+    EDRIVE_AAT: 20
+  response: |-
+    660F1100F62D1110000
+    660F12100A00DB6FFFF
+    660F1224ACB00AAFFFF
+    660F10562D112787A
+- expected_values:
+    EDRIVE_AAT: 19.5
+  response: |-
+    660F1100F62D1110000
+    660F12100AA0B2CFFFF
+    660F1224B46007BFFFF
+    660F10562D1127777
+- expected_values:
+    EDRIVE_AAT: 24
+  response: |-
+    660F1100F62D1110028
+    660F12100A00D34FFFF
+    660F1224D860095FFFF
+    660F1100B62D10D0002
+    660F121EE2A0002EE2A
+    660F10562D1128080

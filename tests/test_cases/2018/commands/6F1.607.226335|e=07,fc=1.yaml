@@ -1,0 +1,37 @@
+command_id: 6F1.607.226335|e=07,fc=1
+test_cases:
+- expected_values:
+    EDRIVE_HVBAT_SOH: 77
+  response: |-
+    607F110076263350000
+    607F121004DFFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 79
+  response: |-
+    607F110076263350000
+    607F121004FFFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 80
+  response: |-
+    607F110076263350000
+    607F1210050FFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 12
+  response: |-
+    607F1100762633501FF
+    607F121030CFFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 100
+  response: |-
+    607F11007626335FFFF
+    607F121C7F9FFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 98
+  response: |-
+    607F11007626335FFFF
+    607F121F462FFFFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOH: 100
+  response: |-
+    607F11007626335FFFF
+    607F121FFDEFFFFFFFF
