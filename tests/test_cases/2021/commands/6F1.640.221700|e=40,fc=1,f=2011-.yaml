@@ -1,0 +1,32 @@
+command_id: 6F1.640.221700|e=40,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_ODO_2: 49364
+  response: |-
+    640F110076217000000
+    640F121C0D4FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 49424
+  response: |-
+    640F110076217000000
+    640F121C110FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 64737
+  response: |-
+    640F110076217000000
+    640F121FCE1FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 122659
+  response: |-
+    640F110076217000001
+    640F121DF23FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 122719
+  response: |-
+    640F110076217000001
+    640F121DF5FFFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 122819
+  response: |-
+    640F110076217000001
+    640F121DFC3FFFFFFFF
