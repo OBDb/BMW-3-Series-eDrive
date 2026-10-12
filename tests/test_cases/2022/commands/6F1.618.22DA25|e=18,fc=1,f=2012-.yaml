@@ -1,0 +1,26 @@
+command_id: 6F1.618.22DA25|e=18,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_EOT: 31
+  response: 618F10562DA25004F
+- expected_values:
+    EDRIVE_EOT: 33
+  response: 618F10562DA250051
+- expected_values:
+    EDRIVE_EOT: 57
+  response: 618F10562DA250069
+- expected_values:
+    EDRIVE_EOT: 61
+  response: 618F10562DA25006D
+- expected_values:
+    EDRIVE_EOT: 78
+  response: 618F10562DA25007E
+- expected_values:
+    EDRIVE_EOT: 82
+  response: 618F10562DA250082
+- expected_values:
+    EDRIVE_EOT: 88
+  response: 618F10562DA250088
+- expected_values:
+    EDRIVE_EOT: 100
+  response: 618F10562DA250094

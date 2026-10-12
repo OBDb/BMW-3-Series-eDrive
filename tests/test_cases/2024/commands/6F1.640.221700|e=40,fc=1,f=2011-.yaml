@@ -1,0 +1,17 @@
+command_id: 6F1.640.221700|e=40,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_ODO_2: 42176
+  response: |-
+    640F110076217000000
+    640F121A4C0FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 49135
+  response: |-
+    640F110076217000000
+    640F121BFEFFFFFFFFF
+- expected_values:
+    EDRIVE_ODO_2: 49635
+  response: |-
+    640F110076217000000
+    640F121C1E3FFFFFFFF

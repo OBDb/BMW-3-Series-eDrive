@@ -1,0 +1,14 @@
+command_id: 6F1.612.224A2D|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_MAP: 23.71094
+  response: 612F105624A2D0BDB
+- expected_values:
+    EDRIVE_MAP: 58
+  response: 612F105624A2D1D00
+- expected_values:
+    EDRIVE_MAP: 121.99219
+  response: 612F105624A2D3CFF
+- expected_values:
+    EDRIVE_MAP: 169.92969
+  response: 612F105624A2D54F7

@@ -1,0 +1,14 @@
+command_id: 6F1.612.2256D7|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_FRP: 3.56
+  response: 612F1056256D700B2
+- expected_values:
+    EDRIVE_FRP: 102.4
+  response: 612F1056256D71400
+- expected_values:
+    EDRIVE_FRP: 112.62
+  response: 612F1056256D715FF
+- expected_values:
+    EDRIVE_FRP: 249.44
+  response: 612F1056256D730B8
