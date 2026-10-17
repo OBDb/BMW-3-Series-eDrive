@@ -40,6 +40,13 @@ test_cases:
     607F121001C00E6FFFF
 - expected_values:
     EDRIVE_HVBAT_SOC: 0
+    EDRIVE_HVBAT_SOC_MAX: 8
+    EDRIVE_HVBAT_SOC_MIN: 23.9
+  response: |-
+    607F1100962DDBC0000
+    607F121005000EFFFFF
+- expected_values:
+    EDRIVE_HVBAT_SOC: 0
     EDRIVE_HVBAT_SOC_MAX: 29.6
     EDRIVE_HVBAT_SOC_MIN: 25.6
   response: |-
@@ -73,13 +80,6 @@ test_cases:
   response: |-
     607F1100962DDBC0000
     607F1210FF500F6FFFF
-- expected_values:
-    EDRIVE_HVBAT_SOC: 9.4
-    EDRIVE_HVBAT_SOC_MAX: 75.5
-    EDRIVE_HVBAT_SOC_MIN: 27.1
-  response: |-
-    607F1100962DDBC005E
-    607F12102F3010FFFFF
 - expected_values:
     EDRIVE_HVBAT_SOC: 100
     EDRIVE_HVBAT_SOC_MAX: 100
