@@ -80,6 +80,8 @@ supported_commands_by_ecu:
   - 0144:EQ_RAT
   - 0145:TP_R
   - 0146:AAT
+  - 0147:TP_B
+  - 0149:APP_D
   - 7E0.0131:CLR_DIST
   "7E1":
   - 7E1.7E9.0104

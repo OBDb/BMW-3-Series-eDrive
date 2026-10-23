@@ -1,0 +1,29 @@
+command_id: 6F1.618.22DA12|e=18,fc=1,f=2012-
+test_cases:
+- expected_values:
+    EDRIVE_ATF_TEMP: 16
+  response: 618F10562DA120040
+- expected_values:
+    EDRIVE_ATF_TEMP: 24
+  response: 618F10562DA120048
+- expected_values:
+    EDRIVE_ATF_TEMP: 28
+  response: 618F10562DA12004C
+- expected_values:
+    EDRIVE_ATF_TEMP: 29
+  response: 618F10562DA12004D
+- expected_values:
+    EDRIVE_ATF_TEMP: 31
+  response: 618F10562DA12004F
+- expected_values:
+    EDRIVE_ATF_TEMP: 32
+  response: 618F10562DA120050
+- expected_values:
+    EDRIVE_ATF_TEMP: 46
+  response: 618F10562DA12005E
+- expected_values:
+    EDRIVE_ATF_TEMP: 48
+  response: 618F10562DA120060
+- expected_values:
+    EDRIVE_ATF_TEMP: 49
+  response: 618F10562DA120061
