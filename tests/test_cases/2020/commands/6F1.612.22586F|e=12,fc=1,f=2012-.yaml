@@ -11,8 +11,8 @@ test_cases:
     612F105624AB115E2
     612F10562586F0B6C
 - expected_values:
-    EDRIVE_EOP: 1.02
-  response: 612F10562586F03FC
+    EDRIVE_EOP: 0.995
+  response: 612F10562586F03E3
 - expected_values:
     EDRIVE_EOP: 3.839
   response: 612F10562586F0EFF

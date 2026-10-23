@@ -19,6 +19,18 @@ test_cases:
     660F1100B62D10D0001
     660F12105BF000105BF
 - expected_values:
+    EDRIVE_ODO: 117597
+    EDRIVE_ODO_ALT: 117597
+  response: |-
+    660F1100B62D10D0001
+    660F121CB5D0001CB5D
+- expected_values:
+    EDRIVE_ODO: 118765
+    EDRIVE_ODO_ALT: 118765
+  response: |-
+    660F1100B62D10D0001
+    660F121CFED0001CFED
+- expected_values:
     EDRIVE_ODO: 146644
     EDRIVE_ODO_ALT: 146644
   response: |-

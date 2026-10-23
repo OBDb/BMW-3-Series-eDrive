@@ -6,6 +6,11 @@ test_cases:
     607F110076263350000
     607F121005AFFFFFFFF
 - expected_values:
+    EDRIVE_HVBAT_SOH: 92
+  response: |-
+    607F110076263350000
+    607F121005CFFFFFFFF
+- expected_values:
     EDRIVE_HVBAT_SOH: 95
   response: |-
     607F110076263350000
