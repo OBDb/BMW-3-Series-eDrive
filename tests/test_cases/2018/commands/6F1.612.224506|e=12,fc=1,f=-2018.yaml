@@ -4,8 +4,8 @@ test_cases:
     EDRIVE_OIL_TEMP_8: 0
   response: 612F1056245060000
 - expected_values:
-    EDRIVE_OIL_TEMP_8: 1
+    EDRIVE_OIL_TEMP_8: 511
   response: 612F10562450601FF
 - expected_values:
-    EDRIVE_OIL_TEMP_8: 111
+    EDRIVE_OIL_TEMP_8: 28418
   response: 612F1056245066F02

@@ -1,14 +1,14 @@
 command_id: 6F1.612.224408|e=12,fc=1,f=-2018
 test_cases:
 - expected_values:
-    EDRIVE_EOT_DME: 295.8
+    EDRIVE_EOT_DME: 22.65
   response: 612F1056244080B8E
 - expected_values:
-    EDRIVE_EOT_DME: 307.1
+    EDRIVE_EOT_DME: 33.95
   response: 612F1056244080BFF
 - expected_values:
-    EDRIVE_EOT_DME: 332.8
+    EDRIVE_EOT_DME: 59.65
   response: 612F1056244080D00
 - expected_values:
-    EDRIVE_EOT_DME: 358.5
+    EDRIVE_EOT_DME: 85.35
   response: 612F1056244080E01
