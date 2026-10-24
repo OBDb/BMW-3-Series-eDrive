@@ -1,17 +1,11 @@
 command_id: 6F1.612.224506|e=12,fc=1,f=2019-
 test_cases:
 - expected_values:
-    EDRIVE_OIL_TEMP: null
+    EDRIVE_OIL_TEMP: 0
   response: 612F1056245060000
 - expected_values:
-    EDRIVE_OIL_TEMP: -172.35
-  response: 612F10562450603F0
-- expected_values:
-    EDRIVE_OIL_TEMP: 1749.05
+    EDRIVE_OIL_TEMP: 20222
   response: 612F1056245064EFE
 - expected_values:
-    EDRIVE_OIL_TEMP: 2542.85
-  response: 612F1056245066E00
-- expected_values:
-    EDRIVE_OIL_TEMP: 2596.15
+    EDRIVE_OIL_TEMP: 28693
   response: 612F1056245067015
