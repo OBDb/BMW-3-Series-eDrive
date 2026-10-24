@@ -1,0 +1,8 @@
+command_id: 6F1.612.225813|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_LOAD: 24
+  response: 612F10462581320
+- expected_values:
+    EDRIVE_LOAD: 63
+  response: 612F10462581354

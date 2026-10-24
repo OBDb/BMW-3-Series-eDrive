@@ -1,0 +1,8 @@
+command_id: 6F1.612.22582F|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_CAT_T: -0.05
+  response: 612F10562582F0AAB
+- expected_values:
+    EDRIVE_CAT_T: 531.85
+  response: 612F10562582F1F72

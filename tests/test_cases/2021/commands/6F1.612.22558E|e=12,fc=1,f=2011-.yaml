@@ -1,0 +1,12 @@
+command_id: 6F1.612.22558E|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_ODO_DME: 65092
+  response: |-
+    612F1100762558E0000
+    612F121FE44FFFFFFFF
+- expected_values:
+    EDRIVE_ODO_DME: 65094
+  response: |-
+    612F1100762558E0000
+    612F121FE46FFFFFFFF
