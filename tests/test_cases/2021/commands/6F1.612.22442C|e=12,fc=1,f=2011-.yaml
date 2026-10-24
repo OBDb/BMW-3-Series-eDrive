@@ -1,0 +1,8 @@
+command_id: 6F1.612.22442C|e=12,fc=1,f=2011-
+test_cases:
+- expected_values:
+    EDRIVE_OIL_LEVEL: 58
+  response: 612F10462442C3A
+- expected_values:
+    EDRIVE_OIL_LEVEL: 82
+  response: 612F10462442C52
