@@ -76,13 +76,16 @@ supported_commands_by_ecu:
   - 6F1.678.22D8C5|e=78,fc=1,f=2011-:EDRIVE_COMP_STATE
   "7DF":
   - 7DF.0103
+  - 7DF.0104
   - 7DF.0105
   - 7DF.0106
   - 7DF.010C
+  - 7DF.0111
   - 7DF.011F
   - 7DF.012F
   - 7DF.0131
   - 7DF.0134
+  - 7DF.0142
   - 7DF.0143
   - 7DF.0144
   - 7DF.0146
