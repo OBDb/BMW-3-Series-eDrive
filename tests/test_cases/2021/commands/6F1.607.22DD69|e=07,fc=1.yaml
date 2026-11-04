@@ -6,10 +6,10 @@ test_cases:
     607F1100762DD690000
     607F1210000FFFFFFFF
 - expected_values:
-    EDRIVE_HVBAT_C: 0.31
+    EDRIVE_HVBAT_C: 0.15
   response: |-
     607F1100762DD690000
-    607F121001FFFFFFFFF
+    607F121000FFFFFFFFF
 - expected_values:
     EDRIVE_HVBAT_C: 40.86
   response: |-
