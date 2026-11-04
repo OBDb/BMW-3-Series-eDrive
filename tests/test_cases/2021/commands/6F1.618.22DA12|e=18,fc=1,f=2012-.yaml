@@ -1,8 +1,8 @@
 command_id: 6F1.618.22DA12|e=18,fc=1,f=2012-
 test_cases:
 - expected_values:
-    EDRIVE_ATF_TEMP: 11
-  response: 618F10562DA12003B
+    EDRIVE_ATF_TEMP: 8
+  response: 618F10562DA120038
 - expected_values:
     EDRIVE_ATF_TEMP: 88
   response: 618F10562DA120088
