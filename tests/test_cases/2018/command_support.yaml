@@ -252,4 +252,5 @@ unsupported_commands_by_ecu:
   - 7E0.015C:EOT
   "7E3":
   - 7E3.7EB.0101
+  - 7E3.7EB.010C
   - 7E3.7EB.0121
